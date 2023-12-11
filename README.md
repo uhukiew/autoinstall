@@ -1,10 +1,10 @@
-# create_wp
+# WP
 WordPress auto install bash script for VestaCP
 
 ### Installing
 
 ```
-wget https://raw.githubusercontent.com/torahonk/create_wp/master/create_wp.sh && chmod +x create_wp.sh && mv create_wp.sh /usr/local/bin/create_wp
+wget https://raw.githubusercontent.com/uhukiew/autoinstall/master/create_wp.sh && chmod +x create_wp.sh && mv create_wp.sh /usr/local/bin/create_wp
 ```
 ### Usage
 
